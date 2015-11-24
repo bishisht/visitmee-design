@@ -1,0 +1,8 @@
+TO DO:
+also integrate a blog system.
+animate visitMee
+Cheapeast way to travel in home page and then show find out more link
+
+later on when we have money make a church of visitmee
+
+contact james and show him website ask him if he knows how to use git if not teach him
